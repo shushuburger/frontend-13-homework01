@@ -15,7 +15,7 @@
 
 ## 🚀 과제 진행 요구 사항
 
-- 미션은 **frontend-week2-homework** 저장소를 fork하고 clone하여 시작한다.
+- 미션은 **frontend-13-homework01** 저장소를 fork하고 clone하여 시작한다.
 - 미션 완료 이후 `docs/README.md`에 미션을 통해 배운 내용들을 작성한다.
 - README.md 작성법은 [다음](https://commonmark.org/help/)을 참고한다.
 - 과제 진행 및 제출 방법은 **[미션 진행 가이드](https://www.notion.so/f0571981555d4509839b9db8d5382162?pvs=21)** 문서를 참고한다.
